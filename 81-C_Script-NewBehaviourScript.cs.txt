@@ -1,0 +1,39 @@
+﻿/**
+ * #SCRIPTNAME#.cs
+ * Created by #AUTHOR# on #CREATIONDATE#
+ * Copyright © #AUTHOR# Game Dev. All rights reserved.
+ */
+
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #region Fields
+		/*Events*/
+
+/*<---------------------------------------->*/
+		/*GameObjects*/
+
+/*<---------------------------------------->*/
+		/*float*/
+
+/*<---------------------------------------->*/
+		/*int*/
+
+/*<---------------------------------------->*/
+		/*bool*/
+
+/*<---------------------------------------->*/
+		/*Others*/
+
+/*<---------------------------------------->*/
+    #endregion
+
+    #region MonoBehaviour Functions
+
+    #endregion
+
+    #region Other Functions
+
+    #endregion
+}
